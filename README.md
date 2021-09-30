@@ -18,13 +18,13 @@ e sintaxes mudaram e outras ficaram depressiadas. Caso queira rodar o projeto, f
 <hr>
 <h3> Algumas imagens da aplicação: </h3>
 <div>
-  <img src="https://user-images.githubusercontent.com/56280877/135460799-4325c522-70c2-40a0-87ef-e031754eb061.jpg" width="220px" />
+  <img src="https://user-images.githubusercontent.com/56280877/135460799-4325c522-70c2-40a0-87ef-e031754eb061.jpg" width="200px" />
 
-  <img src="https://user-images.githubusercontent.com/56280877/135460953-bd797714-40dd-4778-ae3b-8e5f9ef22650.jpg" width="220px" />
+  <img src="https://user-images.githubusercontent.com/56280877/135460953-bd797714-40dd-4778-ae3b-8e5f9ef22650.jpg" width="200px" />
 
-  <img src="https://user-images.githubusercontent.com/56280877/135461060-bfbe695f-5e05-4ad7-8227-10320aa73a5a.jpg" width="220px" />
+  <img src="https://user-images.githubusercontent.com/56280877/135461060-bfbe695f-5e05-4ad7-8227-10320aa73a5a.jpg" width="200px" />
 
-  <img src="https://user-images.githubusercontent.com/56280877/135461129-8f8c777d-0f92-48e9-9828-76124b0e86b3.jpg" width="220px" />
+  <img src="https://user-images.githubusercontent.com/56280877/135461129-8f8c777d-0f92-48e9-9828-76124b0e86b3.jpg" width="200px" />
 </div>
 <hr>
 <h3> Implementações futuras: </h3>
@@ -32,5 +32,5 @@ e sintaxes mudaram e outras ficaram depressiadas. Caso queira rodar o projeto, f
   <li> Search View </li>
   <li> Tela de carregamento </li>
 </ul>
-<hr>
+<br>
 <p> Link da playlist: <a href="https://www.youtube.com/watch?v=CpCe2PLTFZ8&list=PLPs3nlHFeKTrTH2pO2VqcGSfmKYozVdM3"> Jetpack Room - CRUD do Zero no Android com Kotlin - 2020 </a> </p>
